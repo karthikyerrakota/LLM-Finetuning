@@ -2,7 +2,7 @@
 
 This repository contains code for finetuning of LLMs using QLORA method.
 
-In this we took the MEDQUAD dataset to finetune the LLAMA model. A sample of 1000 training examples are used to fien tune the model.
+In this we took the MEDQUAD dataset to finetune the LLAMA model. A sample of 1000 training examples are used to fine tune the model.
 After the finetuning of the model, we created a new model and saved this into Huggingface.
 
 Below are the results for a medical prompt
